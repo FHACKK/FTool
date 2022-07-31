@@ -5,8 +5,6 @@ from colorama import Fore
 import os
 
 while True:
-	os.system("pip install colorama")
-	os.system("apt install git python -y")
 	os.system("clear")
 	print(Fore.RED)
 	os.system("figlet -f slant FTool")
